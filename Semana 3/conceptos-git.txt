@@ -1,0 +1,8 @@
+Pregunta 7
+Escribe una explicación corta de los siguientes conceptos:
+
+Repositorio: Es el lugar donde se guarda tu proyecto, incluyendo todos los archivos y su historial de cambios. Puede estar en tu computador o en la plataformas de GitHub.
+
+Commit:Es como una “foto” de tu proyecto en un momento específico. Guarda los cambios que hiciste junto con un mensaje que explica qué modificaste.
+
+Push: Es el comando que se usa para enviar los commits desde tu computador al repositorio en GitHub, para que queden guardados en la nube.
