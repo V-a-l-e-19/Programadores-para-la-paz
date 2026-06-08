@@ -1,0 +1,51 @@
+Pregunta 1
+¿Qué es JSON?
+
+A. Un sistema operativo
+
+B. Un formato de intercambio de datos usado entre aplicaciones
+
+C. Un editor de código
+
+D. Un navegador
+
+R// B
+
+Pregunta 2
+¿Qué permite express.json() en una aplicación Express?
+
+A. Ejecutar JavaScript
+
+B. Leer datos enviados en formato JSON en una petición
+
+C. Crear bases de datos
+
+D. Crear páginas web
+
+R// B
+
+Pregunta 3
+¿Dónde se encuentran los datos enviados en una petición POST cuando usamos Express?
+
+A. req.file
+
+B. req.body
+
+C. req.system
+
+D. req.data
+
+R// B
+
+Pregunta 4
+¿Cuál de las siguientes opciones representa correctamente un objeto JSON?
+
+A. nombre = "Juan"
+
+B. { nombre: Juan }
+
+C. { "nombre": "Juan" }
+
+D. nombre:Juan
+
+R// C
