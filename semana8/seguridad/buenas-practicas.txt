@@ -1,0 +1,4 @@
+echo "1. Desconfiar de enlaces sospechosos (Phishing)" > buenas-practicas.txt
+echo "2. Realizar copias de seguridad periódicas (Backup)" >> buenas-practicas.txt
+echo "3. Activar la autenticación de dos factores (2FA)" >> buenas-practicas.txt
+cat buenas-practicas.txt 
