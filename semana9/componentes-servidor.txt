@@ -1,0 +1,9 @@
+1. Sistema operativo: Es el software principal que administra los componentes físicos (hardware) de tu computadora y permite que otros programas funcionen correctamente actuando como base del sistema.
+
+2. Node.js: Es un entorno de ejecución que permite usar el lenguaje JavaScript fuera del navegador, dándote la capacidad de construir herramientas de desarrollo y servidores en tu propia computadora.
+
+3. Aplicación server.js: Es el archivo de código donde se programa la lógica del servidor; se encarga de recibir las peticiones que envían los usuarios, procesar los datos y devolver una respuesta en la web.
+
+4. Puerto: Es un punto de conexión virtual o "puerta digital" específica (como el puerto 3000) que usa el servidor para escuchar y canalizar el tráfico de datos que entra y sale de la red.
+
+5. Logs: Son archivos de registro de texto donde el sistema anota automáticamente todo lo que pasa en el servidor, guardando desde los accesos exitosos hasta los errores para poder revisarlos si algo falla.

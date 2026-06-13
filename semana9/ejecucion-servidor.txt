@@ -1,0 +1,7 @@
+1. Qué ocurre cuando ejecutas node server.js.
+R// Node.js lee el archivo, compila el código de JavaScript del lado del servidor e inicializa el proceso. El servidor se queda "escuchando" de forma permanente en el puerto asignado (por ejemplo, el 3000) a la espera de peticiones del navegador.
+2. Qué mensaje aparece en la terminal.
+R//Depende de lo que hayas programado dentro del método app.listen, pero habitualmente el mensaje estándar configurado es:
+Servidor corriendo en http://localhost:3000
+3. Qué sucede cuando visitas la ruta /estado.
+R//El servidor procesa esa solicitud HTTP de tipo GET y te devuelve una respuesta directamente en la pantalla del navegador en formato JSON, que sirve para confirmar de manera rápida que la API está en línea y respondiendo de forma correcta.
