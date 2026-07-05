@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia clara del problema en mi comunidad.
+2. Como administrador quiero asignar roles y permisos específicos para proteger la información confidencial de los denunciantes.
+
+¿Por qué son las más importantes?
+Estas dos tareas constituyen el núcleo funcional y de seguridad de la aplicación. Primero, sin la capacidad de registrar incidencias, la plataforma no tiene razón de ser ni datos con los cuales trabajar. Segundo, la seguridad y asignación de roles debe implementarse desde el inicio para garantizar la privacidad de los usuarios y evitar filtraciones de datos sensibles antes de que la comunidad comience a interactuar con el sistema real.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, significa que una funcionalidad es completamente operativa, segura y cumple con los estándares de calidad del equipo para ser usada por un usuario real sin causar errores.
+
+Definición de "Terminado" (Definition of Done - DoD):
+1. Funciona: El código cumple el requerimiento de la historia de usuario y corre sin errores en el servidor.
+2. Fue probada: Se realizaron pruebas de funcionamiento exitosas (manuales o automatizadas) en el entorno de desarrollo.
+3. Quedó registrada en Git: El código fue subido al repositorio con un commit claro y se integró correctamente a la rama principal.

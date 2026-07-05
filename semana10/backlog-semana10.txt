@@ -1,0 +1,7 @@
+Escribe entre 3 y 5 historias de usuario relacionadas con una solución comunitaria o de veeduría.
+
+1. Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia clara del problema en mi comunidad.
+2. Como veedor ciudadano quiero clasificar los reportes por categorías para priorizar los casos más urgentes que afectan a la comunidad.
+3. Como coordinador quiero recibir una alerta automatizada por Telegram para revisar y validar un nuevo reporte de forma inmediata.
+4. Como miembro del equipo de soporte quiero consultar el historial de reportes para hacer seguimiento al estado de las soluciones.
+5. Como administrador quiero asignar roles y permisos específicos para proteger la información confidencial de los denunciantes.

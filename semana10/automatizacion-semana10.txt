@@ -1,0 +1,23 @@
+1. ¿Qué evento activa el flujo?
+
+Evento: Un ciudadano registra una nueva incidencia o reporte en la plataforma.
+
+¿Qué mensaje se enviaría a Telegram?
+
+Mensaje: > ⚠️ [Alerta de Veeduría] > Se ha recibido un nuevo reporte comunitario.
+
+Categoría: Infraestructura pública.
+ID del reporte: #204
+Por favor, ingrese al sistema para validar la información.
+
+2. ¿Qué información no debería enviarse por seguridad?
+
+Información que no debe enviarse:
+
+Nombre completo o cédula/identificación del ciudadano que reporta.
+
+Número de teléfono, correo electrónico o dirección exacta de su domicilio.
+
+Contraseñas o tokens de acceso.
+
+Comentarios informales o datos personales que puedan exponer la identidad del denunciante y provocar represalias o acoso.
