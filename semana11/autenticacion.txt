@@ -1,0 +1,8 @@
+1. Qué es el login en una aplicación.
+El login (o inicio de sesión) es el mecanismo de autenticación que permite identificar y validar la identidad de un usuario (mediante credenciales como correo y contraseña) antes de otorgarle acceso a funciones específicas de la plataforma.
+2. Por qué algunas rutas deben estar protegidas.
+Las rutas protegidas son páginas o endpoints del servidor que restringen el acceso mediante filtros de seguridad. Deben estar protegidas porque manejan información privada, registros internos del sistema o acciones críticas (como modificar o eliminar datos) que solo usuarios autorizados (administradores o veedores) deben poder ejecutar, evitando que personas externas o bots manipulen la plataforma.
+3. Qué tipo de información no debería exponerse públicamente.
+Bajo ninguna circunstancia se deben mostrar de forma abierta contraseñas, tokens de sesión, claves de API, números de documentos de identidad, direcciones físicas, números telefónicos ni datos sensibles que comprometan la privacidad, la integridad física o la seguridad de los miembros de la comunidad.
+
+

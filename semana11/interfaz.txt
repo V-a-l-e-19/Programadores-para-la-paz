@@ -1,0 +1,8 @@
+Describe cómo sería una interfaz simple para esta plataforma
+Formulario para crear una causa: En la parte superior o lateral se ubica un panel sencillo con tres campos de texto claros: "Título de la causa", "Descripción del problema o iniciativa" y "Fecha límite o del evento". Cuenta con un botón destacado que dice "Publicar Causa" para enviarla directamente al servidor.
+
+Vista de causas disponibles: El cuerpo principal de la pantalla muestra un muro o listado de tarjetas (cards). Cada tarjeta contiene de forma ordenada el título, la descripción y la fecha de las iniciativas que ya han sido creadas por otros vecinos.
+
+Botón para apoyar una causa: Dentro de cada tarjeta de causa, se incluye un botón interactivo y visible (por ejemplo, con un icono de pulgar arriba o un corazón) que lleva la etiqueta "Apoyar Causa". Al hacer clic, el usuario suma su voto a la iniciativa.
+
+Contador de apoyos: Justo al lado del botón de apoyo, aparece un número indicador en tiempo real (por ejemplo, 👍 42 apoyos) que refleja el impacto y el respaldo colectivo que ha recibido esa causa específica.

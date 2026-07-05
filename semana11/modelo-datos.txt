@@ -1,0 +1,26 @@
+Entidad: Reporte_Incidencia
+
+Campos principales:
+- id: Identificador único del reporte (numérico o UUID).
+- titulo: Resumen corto de la problemática (ej. "Bache en calle principal").
+- descripcion: Detalle completo de la situación encontrada.
+- ubicacion: Coordenadas o dirección física del problema.
+- estado: Estado actual del caso (ej. "Pendiente", "En revisión", "Solucionado").
+- fecha_creacion: Fecha y hora en la que se registró la incidencia.
+
+Propósito:
+Almacenar de forma organizada las denuncias, fallas o problemáticas comunitarias reportadas por los ciudadanos para que sean visibles en el sistema de veeduría.
+
+
+Entidad: Validacion_Veedor
+
+Campos principales:
+- id: Identificador único de la validación.
+- reporte_id: Referencia al ID de la incidencia que se está verificando.
+- veedor_usuario: Nombre de usuario o alias del veedor que revisa el caso.
+- comentario: Notas técnicas o evidencias recopiladas durante la inspección.
+- aprobado: Valor booleano (verdadero/falso) que indica si la denuncia es legítima.
+- fecha_validacion: Fecha y hora en la que se realizó la inspección.
+
+Propósito:
+Registrar el seguimiento, control y verificación que hacen los miembros del equipo de veeduría sobre cada reporte para evitar alertas falsas y asegurar la transparencia.
