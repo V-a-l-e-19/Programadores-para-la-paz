@@ -1,0 +1,20 @@
+ Automatización de Notificaciones Comunitarias
+
+Evento que activa la automatización:
+Una nueva causa es registrada de manera exitosa en la base de datos de la plataforma (Webhook o Trigger de Base de Datos en n8n).
+
+Mensaje que se envía de forma automática a Telegram:
+¡Nueva Causa Comunitaria Registrada!
+
+*Título:* [Título de la Causa]
+*Descripción:* [Breve resumen automático de la problemática]
+*Fecha de registro:* [Fecha/Hora]
+
+Ingresa a la plataforma para revisar los detalles y sumar tu apoyo.
+
+Información que NO debe enviarse por seguridad:
+- Número de documento de identidad (cédula).
+- Números de teléfono o correos electrónicos de los creadores o simpatizantes.
+- Direcciones de residencia específicas o coordenadas exactas de viviendas privadas.
+- Nombres reales, alias comprometedores o datos de contacto de carácter personal.
+- Comentarios sensibles que pongan en riesgo la integridad de los denunciantes frente a represalias territoriales.

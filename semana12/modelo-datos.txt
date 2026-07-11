@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id: Identificador único de la causa (llave primaria).
+- titulo: Nombre corto de la petición o iniciativa comunitaria.
+- descripcion: Detalle de los motivos y metas de la causa.
+- fecha: Fecha y hora de creación de la iniciativa.
+
+Propósito:
+Almacenar de manera estructurada las diferentes solicitudes o peticiones colectivas creadas por los ciudadanos en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: Identificador único del registro de apoyo (llave primaria).
+- causa_id: Código de referencia de la causa que se está respaldando (llave foránea que conecta con Causa).
+- nombre: Alias, usuario o identificador del ciudadano que apoya (resguardando su privacidad según el caso).
+- fecha: Fecha y hora exacta en la que se registró el voto de soporte.
+
+Propósito:
+Registrar y cuantificar cada voto de respaldo que recibe una causa, permitiendo realizar la sumatoria e histórico de participación sin duplicados.

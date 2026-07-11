@@ -1,0 +1,7 @@
+Pasos del sistema Petición en 3 Clics:
+
+1. Registro de la Causa (Clic 1): El ciudadano ingresa a la plataforma, completa un formulario simple con el título, descripción y fecha de la problemática de su comunidad, y hace el primer clic para publicarla.
+2. Almacenamiento Centralizado: El sistema procesa la solicitud y registra de manera automática la causa en la base de datos, dejándola visible en el muro público para los demás usuarios.
+3. Respaldo Comunitario (Clic 2): Otros ciudadanos interesados entran a la plataforma, revisan la causa publicada y hacen el segundo clic en el botón "Apoyar Causa".
+4. Procesamiento y Conteo: El sistema valida el soporte, incrementa el contador de apoyos en tiempo real en la interfaz gráfica y vincula el voto de forma segura a la causa correspondiente en la base de datos.
+5. Generación de Petición (Clic 3): Una vez que la iniciativa alcanza la meta de apoyos establecida, el creador o administrador hace el tercer clic para que el sistema genere automáticamente un documento PDF formal con los detalles de la petición y la lista consolidada de respaldos, listo para ser radicado ante las autoridades.

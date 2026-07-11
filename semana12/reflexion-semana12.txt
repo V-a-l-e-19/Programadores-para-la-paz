@@ -1,0 +1,10 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Durante este curso aprendí que la tecnología es un motor de cambio social cuando se usa con propósito.
+Herramientas como el backlog y las iteraciones de proyectos nos permiten aterrizar metas comunitarias complejas.
+Por otro lado, el almacenamiento de datos estructurados le otorga permanencia, orden y veracidad a las solicitudes ciudadanas.
+Descubrí que la automatización responsable, con n8n o Telegram, es de gran alivio operativo al reducir tareas repetitivas.
+Sin embargo, el aprendizaje más valioso fue entender el rol indispensable de la ciberseguridad en los entornos sociales.
+La autenticación de usuarios y la encriptación de datos sensibles no son meros caprichos de código técnico.
+Son, en realidad, los escudos democráticos que garantizan que un ciudadano sea un voto legítimo y transparente.
+Además, protegen la privacidad e integrida
